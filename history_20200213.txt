@@ -1,0 +1,30 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  python
+    4  firefox
+    5  git clone htttp://github.com/193aeb021/RTR108
+    6  git clone htttp://github.com/193AEB021/RTR 108
+    7  git clone htttp://github.com/Akila92suraj
+    8  git clone https://github.com/193AEB021/RTR108
+    9  git clone https://github.com/193AEB021/RTR 108
+   10  git clone https://github.com/193AEB021/RTR_108
+   11  git clone https://github.com/193AEB021/RTR-108
+   12  git clone https://github.com/193AEB021/RTR108_2020
+   13  git clone https://github.com/193AEB021/RTR 108 1 2 Spring2019
+   14  who am i
+   15  ls
+   16  ls -la
+   17  git clone https://github.com/Akila92suraj/RTR108
+   18  cd
+   19  lsd
+   20  ls
+   21  cd RTR108
+   22  /git-upload 20200213_09_s2
+   23  /git-upload 20200213_09_55
+   24  ls -lt
+   25  mv home\ work.py diary_20200213.py 
+   26  ls -lt
+   27  nano git-upload
+   28  chmod 744 git-upload 
+   29  history 
+   30  history > history_20200213.txt
